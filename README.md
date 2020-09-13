@@ -7,7 +7,7 @@ Steps:
 
 1. Download the latest version of .NET Core Runtime and SDK
 
-2: Run these following commands:
+2. Run these following commands:
 
 cd (path)
 
