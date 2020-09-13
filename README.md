@@ -1,5 +1,5 @@
 # Vyond-Legacy-Remastered
-The Vyond's Legacy Video Maker revival project. (Requires .NET Core)
+The Vyond's Legacy Video Maker revival project. (Requires .NET Core instead of Node.JS)
 
 This requires .NET Core! Download: https://dotnet.microsoft.com/download
 
