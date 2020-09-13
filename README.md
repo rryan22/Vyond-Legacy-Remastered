@@ -5,9 +5,9 @@ This requires .NET Core! Download: https://dotnet.microsoft.com/download
 
 Steps:
 
-1. Download the latest version of .NET Core Runtime and SDK
+1: Download the latest version of .NET Core Runtime and SDK
 
-2. Run these following commands:
+2: Run these following commands:
 
 cd (path)
 
